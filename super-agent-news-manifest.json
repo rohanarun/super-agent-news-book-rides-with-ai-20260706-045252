@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "Let's Data Science",
+      "title": "Specialized AI Tools Boost Productivity Stacks in 2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlRsSDJ1UGxFWkczMWRVeVJyMWVHUDE5M0JaYzluWldnSE5wTGQ5Q3l1dmhDV1pobFhCNmJtSGlCVExKc3RUcnByUF9ndk1HQ0oxWElRTzJNTGFtbnNidlZhTC1rSGVoNW9BZ01rXzJRLS1CQ0ZwNVZ3MXg1S3o0NS1WNnkwMXRzMHZzWTlieFBBT0RqTnhQWk1tbHE"
+    },
+    {
+      "source": "AIMultiple",
+      "title": "OpenClaw (Moltbot/Clawdbot) Use Cases and Security 2026",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBJX1FvZk1peHRfTWNUUGhUdE9EMXBpNXpfSkhEdDNkZWpycllGWC13bFdEU1dRSTQ1aDVPXy01N25PczZV"
+    },
+    {
+      "source": "Consumer Reports",
+      "title": "Different Prices for the Same Ride: How Uber and Lyft Use AI to Get More Money Out of You",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnBDTUJlaU41UTBxTFduWmRNNDJpWF9qTmFqczhkXzBkc3JVMUVkYkhhVlN6R0FHdktwVEtzVW5Ub2ltM1JzMXpnSG5DNU9kb1k0UzRSMS1rdjlIVko0X29FOWxtbG9HMlVTMktndWJpWXB5UWVkMllXVzRMZEN4aTlaSmxEZHR6R0l5eGRxSTc5bjA1cHV2cHZaYkFuWXphcXBQNzZGWFhDd2x6OU9WV0duMWpDakppdHBTbzJqSUZwNWF0VjQxeEF4Mm9yYWtYSGt3RU8wbEZNZw"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c"
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Book rides with AI|use_case|people who want an AI assistant to compare, book, and coordinate rides|2026-07-06T04:52:03.207640+00:00') -> selected hero=workflow-command-center, typography=Geist, components=[workflow-playbook-timeline, decision-matrix, implementation-checklist], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero grabs attention with concrete job-to-be-done; proof and market context build interest; motion and cache reuse build desire; CTA is explicit. Font Selection: Geist for legibility. Hero Math Verification: clamp headline fits 2\u20133 lines at 1120px max-width. Bento Density Verification: compare-grid uses grid-auto-flow:dense. GSAP Motion Selection: guarded scroll + hover. Label Sweep & Button Check: black primary CTA, white secondary verified.",
+  "generated_at": "2026-07-06T04:52:59.423395+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and confirm with a personal agent",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "A practical field guide showing how Super helps people compare ETAs, request rides, manage pickup details, and reuse route preferences using real computer control and a reusable computer-use cache."
+}
